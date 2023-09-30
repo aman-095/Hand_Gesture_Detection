@@ -28,7 +28,7 @@ the Leap Motion sensor.
 - [Seaborn: ](https://seaborn.pydata.org/) Data visualisation library
 - [OpenCV2: ](https://pypi.org/project/opencv-python/) Image Preprocessing library
 ## Pipeline:
-### [1. B20CS016_B20CS019_GESTURE.ipynb](https://github.com/Pranavchiku/Gesture-Detection-Application/blob/d403c8d211a0d004daf38631c465c6b836e12a24/B20CS016_B20CS019_GESTURE.ipynb)
+### [1. Gesture_Detection.ipynb](https://github.com/aman-095/Hand_Gesture_Detection/blob/main/Gesture_Detection.ipynb)
 This is the main file containing EDA, preprocessing, application of various deep learning models.
 - Installing libraries and dependencies
 - Importing the dataset
