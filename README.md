@@ -2,8 +2,8 @@
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/145GC1wY9dAeOz6zBKy4sh7AU0_gu7Ypj?usp=sharing)
-<!-- [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://pranavchiku.github.io/Gesture-Detection-Application/) -->
-<!-- [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/Pranavchiku/Gesture-Detection-Application/blob/d403c8d211a0d004daf38631c465c6b836e12a24/B20CS016_B20CS019_ES_PROJECT.pdf) -->
+<![![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://aman-095.github.io/Hand_Gesture_Detection/)
+
 ## Overview:
 The project presents a website for hand gesture detection using deep learning models. The system can be used
 to recognize and classify hand gestures captured through a camera on various platforms such as desktop, and
