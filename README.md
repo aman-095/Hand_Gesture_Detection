@@ -2,7 +2,7 @@
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/145GC1wY9dAeOz6zBKy4sh7AU0_gu7Ypj?usp=sharing)
-<![![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://aman-095.github.io/Hand_Gesture_Detection/)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://aman-095.github.io/Hand_Gesture_Detection/)
 
 ## Overview:
 The project presents a website for hand gesture detection using deep learning models. The system can be used
